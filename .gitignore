@@ -46,3 +46,5 @@ htmlcov/
 
 # Ignore local development files
 local_settings.py
+
+desktop.ini
